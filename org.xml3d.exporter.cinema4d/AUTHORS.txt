@@ -1,0 +1,11 @@
+Ken Patrick Dahm <kdahm@graphics.cs.uni-saarland.de>
+Tobias Gro§ <gross@graphics.cs.uni-saarland.de>
+Georg Demme <georg.demme@dfki.de>
+
+  * Original author of the Py4D plugins
+  
+Kristian Sons <kristian.sons@dfki.de>
+  * Original author of the XML3D exporting classes
+
+And other contributors.
+For a full list, refer to the top of each file in question.

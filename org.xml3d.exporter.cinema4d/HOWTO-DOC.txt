@@ -1,0 +1,12 @@
+Generating the documentation
+============================
+
+1. Install Epydoc
+2. Change directory to R12/docs
+3. python "PYTHON_INSTALL_FOLDER/Scripts/epydoc.py" --config epydoc.cfg
+4. Open html/index.html
+
+Troubleshooting
+===============
+* If the epydoc installation cannot find your python installation, make sure you have matching binary version - epydoc required 32 bit version of Python. On a 64 bit system, you can have side-by-side installation of 64 bit and 32 bit Python.
+* If you have multiple python installation, make sure to call the correct "python" where epydoc is installed

@@ -1,0 +1,18 @@
+STRINGTABLE XML3DMouseEventTag  
+{  
+    XML3DMouseEventTag "XML3DMouseEventTag";  
+  
+    GROUPTARGETS    "MouseEvents";  
+    
+    ONCLICK "onclick";
+    ONDBLCLICK "ondblclick";
+    ONMOUSEDOWN "onmousedown";
+    ONMOUSEUP "onmouseup";
+    ONMOUSEOVER "onmouseover";
+    ONMOUSEMOVE "onmousemove";
+    ONMOUSEOUT "onmouseout";
+    ONKEYPRESS "onkeypress";
+    ONKEYDOWN "onkeydown";
+    ONKEYUP "onkeyup";
+    
+}  
