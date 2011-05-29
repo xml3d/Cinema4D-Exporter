@@ -104,7 +104,7 @@ class XML3DExporterGUI(gui.GeDialog):
                 if docPath != "":
                     self.targetPath = storage.SaveDialog(0, "Choose target file", "xhtml", docPath)
                 else:
-                    self.targetPath = storage.SaveDialog(0, "Choose target file", "xhtml", storage.GeGetStartupWritepath())
+                    self.targetPath = storage.SaveDialog(0, "Choose target file", "xhtml", storage.GeGetStartupWritePath())
             
             if self.targetPath == None:
                 self.Close()
